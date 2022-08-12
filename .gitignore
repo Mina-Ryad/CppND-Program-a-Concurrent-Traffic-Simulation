@@ -1,1 +1,9 @@
 .github/**
+/build
+/CODEOWNERS
+/LICENSE.md
+/.vscode
+/.
+/..
+/.git
+/.github
