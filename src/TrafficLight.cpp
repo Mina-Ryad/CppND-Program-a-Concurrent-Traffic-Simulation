@@ -84,7 +84,7 @@ void TrafficLight::cycleThroughPhases()
     /* Generate random number between 4 and 6 seconds */
     unsigned int seed = std::chrono::steady_clock::now().time_since_epoch().count();
     std::default_random_engine gen(seed);
-    std::uniform_real_distribution<double> dist(4.0, 6.0);
+    std::uniform_real_distribution<double> dist(4000, 6000);
     double random_duration = dist(gen);
 
     // int range = 6 - 4 + 1;
@@ -98,7 +98,7 @@ void TrafficLight::cycleThroughPhases()
         std::lock_guard lck2(_mutex2);
         auto time_now = std::chrono::high_resolution_clock::now();
         
-        auto time_diff = std::chrono::duration_cast<std::chrono::seconds>(time_now - time_prev).count();
+        auto time_diff = std::chrono::duration_cast<std::chrono::milliseconds>(time_now - time_prev).count();
         // random_duration = 4.0;
         if (time_diff >= random_duration)
         {
