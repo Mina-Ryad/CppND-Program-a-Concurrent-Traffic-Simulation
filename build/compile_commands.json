@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4  -std=c++17 -pthread -g -o CMakeFiles/traffic_simulation.dir/src/Graphics.cpp.o -c /mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/src/Graphics.cpp",
+  "file": "/mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/src/Graphics.cpp"
+},
+{
+  "directory": "/mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4  -std=c++17 -pthread -g -o CMakeFiles/traffic_simulation.dir/src/Intersection.cpp.o -c /mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/src/Intersection.cpp",
+  "file": "/mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/src/Intersection.cpp"
+},
+{
+  "directory": "/mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4  -std=c++17 -pthread -g -o CMakeFiles/traffic_simulation.dir/src/Street.cpp.o -c /mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/src/Street.cpp",
+  "file": "/mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/src/Street.cpp"
+},
+{
+  "directory": "/mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4  -std=c++17 -pthread -g -o CMakeFiles/traffic_simulation.dir/src/TrafficLight.cpp.o -c /mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.cpp",
+  "file": "/mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.cpp"
+},
+{
+  "directory": "/mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4  -std=c++17 -pthread -g -o CMakeFiles/traffic_simulation.dir/src/TrafficObject.cpp.o -c /mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.cpp",
+  "file": "/mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.cpp"
+},
+{
+  "directory": "/mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4  -std=c++17 -pthread -g -o CMakeFiles/traffic_simulation.dir/src/TrafficSimulator-Final.cpp.o -c /mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficSimulator-Final.cpp",
+  "file": "/mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficSimulator-Final.cpp"
+},
+{
+  "directory": "/mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4  -std=c++17 -pthread -g -o CMakeFiles/traffic_simulation.dir/src/Vehicle.cpp.o -c /mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/src/Vehicle.cpp",
+  "file": "/mnt/win/Udacity-C++-Nanodegree/Project_4/CppND-Program-a-Concurrent-Traffic-Simulation/src/Vehicle.cpp"
+}
+]
